@@ -14,6 +14,5 @@ def HashGen(text):
             newtxt = newtxt + i
     return (newtxt)
 
-print(HashGen(" Hello there thanks for trying my Kata"))
 
-print("  Hello there thanks for trying my Kata   ".strip()) 
+
